@@ -1,1 +1,1 @@
-## Python DSA Assignments of Pre Placement Programm by iNeuron
+## Python DSA Assignments of Pre Placement Training Program by iNeuron
